@@ -1,5 +1,6 @@
 ---
 title: GCSE Teaching Resources
+subtitle: Resources for teachers
 cover-img: "assets/img/bluebells.jpg"
 ---
 
