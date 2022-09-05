@@ -1,5 +1,6 @@
 ---
 title: The Maths Orchard
+cover-img: "assets/img/bluebells.jpg"
 ---
 
 # About
