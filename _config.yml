@@ -20,17 +20,19 @@ author: Mr & Mx Kynaston
 ###############################################
 
 navbar-links:
-  Key Stage 4: 
+  GCSE Teaching: 
     - Algebra: "key-stage-4#algebra"
     - Geometry: "key-stage-4#geometry"
     - Statistics: "key-stage-4#statistics"
     - Probability: "key-stage-4#probability"
     - Numbers: "key-stage-4#numbers"
-  A/AS Level:
-    - Core Maths: "aboutme"
-    - Year 12: "aboutme"
-    - Year 13: "aboutme"
-  Other Resources: "aboutme"
+  GCSE Revision: "under-construction"
+  A/AS Level Teaching:
+    - Core Maths: "under-construction"
+    - Year 12: "under-construction"
+    - Year 13: "under-construction"
+  A/AS Level Revision: "under-construction"
+  Fun Stuff: "under-construction"
 
 ################
 # --- Logo --- #
@@ -38,7 +40,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar.jpg"
+#avatar: "/assets/img/avatar.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
