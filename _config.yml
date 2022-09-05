@@ -20,7 +20,9 @@ author: Mr & Mx Kynaston
 ###############################################
 
 navbar-links:
-  Key Stage 4: "key-stage-4"
+  Key Stage 4: 
+    - Algebra: "key-stage-4#algebra"
+    - Geometry: "key-stage-4#geometry"
   A/AS Level:
     - Core Maths: "aboutme"
     - Year 12: "aboutme"

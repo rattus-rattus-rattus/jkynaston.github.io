@@ -8,6 +8,7 @@ Below you will find a collection of resources for KS4 mathematics. Included are 
 - [Algebra](#algebra)
 - [Geometry](#geometry)
     - [Congruence, similarity, and enlargement](#congruence-similarity-and-enlargement)
+    - [Trigonometry](#trigonometry)
     - [Angles & bearings](#angles-and-bearings)
     - [Working with circles](#working-with-circles)
 - [Statistics](#statistics)
@@ -19,7 +20,10 @@ Below you will find a collection of resources for KS4 mathematics. Included are 
 # Geometry
 
 #### Congruence, similarity, and enlargement
-- Scaling a shape by a positive rational number - [Geogebra activites](https://www.geogebra.org/m/ajecbavz){:target="_blank"}
+- Scaling a shape by a positive rational number
+     - [Geogebra demo](https://www.geogebra.org/m/ajecbavz){:target="_blank"}
+- Scaling a shape by a negative rational number
+    - [Geogebra demo](https://www.geogebra.org/m/gt7vk4b5){:target="_blank"}
 
 #### Trigonometry
 

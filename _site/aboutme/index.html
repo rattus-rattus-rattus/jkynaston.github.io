@@ -123,9 +123,14 @@
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="/key-stage-4">Key Stage 4</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Key Stage 4</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/key-stage-4#algebra">Algebra</a>
+                  <a class="dropdown-item" href="/key-stage-4#geometry">Geometry</a>
+            </div>
           </li>
+        
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">A/AS Level</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
@@ -171,20 +176,6 @@
   <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
   <script>
     var searchjson = '[ \
-       \
-        { \
-          "title"    : "Sample blog post", \
-          "category" : "test", \
-          "url"      : "/2020-02-28-test-markdown/", \
-          "date"     : "February 28, 2020" \
-        }, \
-       \
-        { \
-          "title"    : "Flake it till you make it", \
-          "category" : "bookstest", \
-          "url"      : "/2020-02-26-flake-it-till-you-make-it/", \
-          "date"     : "February 26, 2020" \
-        }, \
        \
        \
         { \
