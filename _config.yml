@@ -21,11 +21,11 @@ author: Mr & Mx Kynaston
 
 navbar-links:
   GCSE Teaching: 
-    - Algebra: "key-stage-4#algebra"
-    - Geometry: "key-stage-4#geometry"
-    - Statistics: "key-stage-4#statistics"
-    - Probability: "key-stage-4#probability"
-    - Numbers: "key-stage-4#numbers"
+    - Algebra: "gcse-teaching#algebra"
+    - Geometry: "gcse-teaching#geometry"
+    - Statistics: "gcse-teaching#statistics"
+    - Probability: "gcse-teaching#probability"
+    - Numbers: "gcse-teaching#numbers"
   GCSE Revision: "under-construction"
   A/AS Level Teaching:
     - Core Maths: "under-construction"

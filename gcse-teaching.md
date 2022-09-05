@@ -1,5 +1,5 @@
 ---
-title: Key Stage 4 Resources
+title: GCSE Teaching Resources
 cover-img: "assets/img/bluebells.jpg"
 ---
 
