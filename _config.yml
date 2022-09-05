@@ -23,6 +23,9 @@ navbar-links:
   Key Stage 4: 
     - Algebra: "key-stage-4#algebra"
     - Geometry: "key-stage-4#geometry"
+    - Statistics: "key-stage-4#statistics"
+    - Probability: "key-stage-4#probability"
+    - Numbers: "key-stage-4#numbers"
   A/AS Level:
     - Core Maths: "aboutme"
     - Year 12: "aboutme"
