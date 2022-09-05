@@ -1,5 +1,6 @@
 ---
 title: Key Stage 4 Resources
+cover-img: "assets/img/bluebells.jpg"
 ---
 
 Below you will find a collection of resources for KS4 mathematics. Included are problem/homework sheets (with answers) and the occasional [Geogebra](https://www.geogebra.org) activity/demonstration.
