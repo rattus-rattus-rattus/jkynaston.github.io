@@ -17,6 +17,8 @@ author: Mr & Mx Kynaston
 
 paginate_path: "/blog/page:num/"
 
+url: "https://www.themathsorchard.co.uk"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -31,7 +33,7 @@ navbar-links:
   GCSE Revision: "under-construction"
   A/AS Level Teaching:
     - Core Maths: "under-construction"
-    - Year 12: "under-construction"
+    - Year 12: "a-level-teaching"
     - Year 13: "under-construction"
   A/AS Level Revision: "under-construction"
   Other:

@@ -5,7 +5,7 @@
 <lastmod>2022-09-05T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/aboutme/</loc>
+<loc>http://localhost:4000/a-level-teaching/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/gcse-teaching/</loc>
@@ -24,5 +24,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/under-construction/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/download/a-level/sequences-and-series/Handout--using-nth-term-and-arithmetic-sequences.pdf</loc>
+<lastmod>2022-09-06T13:46:40-04:00</lastmod>
 </url>
 </urlset>
