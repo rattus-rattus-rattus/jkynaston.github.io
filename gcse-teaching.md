@@ -21,7 +21,7 @@ Below you will find a collection of resources for KS4 mathematics. Included are 
 # Geometry
 
 ### Year 10
-#### Congruence, similarity, and enlargement
+#### [Congruence, similarity, and enlargement](google.com)
 - Scaling a shape by a positive rational number
      - [Geogebra demo](https://www.geogebra.org/m/ajecbavz){:target="_blank"}
 - Scaling a shape by a negative rational number
