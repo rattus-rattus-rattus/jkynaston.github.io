@@ -9,3 +9,9 @@ a.nav-link {
 a.navbar-brand {
     text-decoration: none;
 }
+
+pre,
+code {
+    background: #fefae0;
+    color: #5a3a4b;
+}
