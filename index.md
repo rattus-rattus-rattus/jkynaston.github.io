@@ -1,7 +1,6 @@
 ---
 title: The Maths Orchard
 subtitle: Resources for teachers and students
-cover-img: "https://www.themathsorchard.co.uk/assets/img/bluebells.jpg"
 ---
 
 # About the Maths Orchard
