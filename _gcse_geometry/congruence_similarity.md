@@ -1,13 +1,9 @@
 ---
-layout: post
 title: Congruence, similarity, and enlargement
-thumbnail-img: /assets/img/y10.png
-tags: [similar, similarity, enlargement, shape, scale, factor, scale factor]
+layout: topic
+cover-img: "/assets/img/geometry.jpg"
 ---
 
-New geogebra activities!
-
-#### Congruence, similarity, and enlargement
 - Scaling a shape by a positive rational number
      - [Geogebra demo](https://www.geogebra.org/m/ajecbavz){:target="_blank"}
 - Scaling a shape by a negative rational number

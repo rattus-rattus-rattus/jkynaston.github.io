@@ -19,23 +19,33 @@ paginate_path: "/blog/page:num/"
 
 url: "https://www.themathsorchard.co.uk"
 
+collections:
+  gcse_geometry:
+    output: true
+    sort_by: topicno
+  ks3:
+    output: true 
+  a-level:
+    output: true
+
+permalink: /:categories/:title:output_ext
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  GCSE Teaching: 
+  KS3 Resources: "under-construction"
+  GCSE Resources:
     - Algebra: "gcse-teaching#algebra"
-    - Geometry: "gcse-teaching#geometry"
+    - Geometry: "gcse_geometry"
     - Statistics: "gcse-teaching#statistics"
     - Probability: "gcse-teaching#probability"
     - Numbers: "gcse-teaching#numbers"
-  GCSE Revision: "under-construction"
-  A/AS Level Teaching:
+  A-level Resources:
     - Core Maths: "under-construction"
     - Year 12: "a-level-teaching"
     - Year 13: "under-construction"
-  A/AS Level Revision: "under-construction"
   Other:
     - Classroom printouts: "under-construction"
     - LaTeX: "other/latex"
@@ -286,7 +296,6 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      cover-img: "https://www.themathsorchard.co.uk/assets/img/cover.jpg"
 
 # Exclude these files from production site
 exclude:

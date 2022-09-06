@@ -1,0 +1,7 @@
+.intro-header .page-heading h1 {
+    font-size: 2rem;
+}
+
+.intro-header.big-img .page-heading {
+    padding: 50px 0;
+}

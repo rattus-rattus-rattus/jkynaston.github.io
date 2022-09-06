@@ -1,6 +1,7 @@
 ---
-title: GCSE Teaching Resources
+title: GCSE Resources
 subtitle: Resources for teachers
+permalink: /gcse_old/
 ---
 
 Below you will find a collection of resources for KS4 mathematics. Included are problem/homework sheets (with answers) and the occasional [Geogebra](https://www.geogebra.org) activity/demonstration. The topics listed correspond to those listed in the [White Rose Maths](https://whiterosemaths.com){:target="_blank"} scheme of work; however, all resources are scheme-agnostic and are suitable for use in any classroom under any scheme of work.
