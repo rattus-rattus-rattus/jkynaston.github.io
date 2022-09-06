@@ -34,7 +34,10 @@ navbar-links:
     - Year 12: "under-construction"
     - Year 13: "under-construction"
   A/AS Level Revision: "under-construction"
-  Fun Stuff: "under-construction"
+  Other:
+    - Classroom printouts: "under-construction"
+    - LaTeX: "other/latex"
+
 
 ################
 # --- Logo --- #
@@ -124,7 +127,7 @@ post_search: true
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "resources for teaching,maths ks4,maths gcse,gcse maths resources,gcse revision resources,gcse revision,ks4 revision,a level maths,a level maths revision,a level maths teaching resources"
