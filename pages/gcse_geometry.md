@@ -1,7 +1,7 @@
 ---
 title: GCSE Geometry Resources
 permalink: /gcse_geometry/
-cover-img: "/assets/img/geometry.jpg"
+cover-img: "/assets/img/cover.jpg"
 layout: hub
 ---
 

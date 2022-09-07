@@ -5,3 +5,15 @@
 .intro-header.big-img .page-heading {
     padding: 50px 0;
 }
+
+.intro-header.big-img {
+    margin-bottom: 0rem;
+}
+
+h4 {
+    margin-bottom: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
