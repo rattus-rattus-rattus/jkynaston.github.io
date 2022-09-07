@@ -236,13 +236,54 @@
           "date"     : "January 1, 1970" \
         } \
        \
+       \
+        { \
+          "title" : "", \
+          "category" : "", \
+          "tags" : ", \
+          "url" : "", \
+          "date" : "" \
+        } , \
+         \
+        { \
+          "title" : "", \
+          "category" : "", \
+          "tags" : ", \
+          "url" : "", \
+          "date" : "" \
+        } , \
+         \
+        { \
+          "title" : "", \
+          "category" : "", \
+          "tags" : ", \
+          "url" : "", \
+          "date" : "" \
+        } , \
+         \
+        { \
+          "title" : "", \
+          "category" : "", \
+          "tags" : ", \
+          "url" : "", \
+          "date" : "" \
+        } , \
+         \
+        { \
+          "title" : "", \
+          "category" : "", \
+          "tags" : ", \
+          "url" : "", \
+          "date" : "" \
+        }  \
+         \
     ]';
-    searchjson = JSON.parse(searchjson);
+    // searchjson = JSON.parse('search.json');
 
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('nav-search-input'),
       resultsContainer: document.getElementById('search-results-container'),
-      json: searchjson
+      json: "/search.json"
     });
   </script>
 </div>
