@@ -2,30 +2,35 @@
   
     {
       "title"    : "Angles &amp; Bearings",
+      "url"      : "/gcse_geometry/angles_bearings/",
       "content"  : "Under construction.",
       "tags"     : ""
     } ,
   
     {
       "title"    : "Circles",
+      "url"      : "/gcse_geometry/circles/",
       "content"  : "Under construction.",
       "tags"     : ""
     } ,
   
     {
       "title"    : "Congruence, similarity, and enlargement",
+      "url"      : "/gcse_geometry/congruence_similarity/",
       "content"  : "  Scaling a shape by a positive rational number          Geogebra demo      Lesson Slides (.pptx|.pdf)        Scaling a shape by a negative rational number          Geogebra demo        Identifying and understanding similarity          Geogebra demo      ",
       "tags"     : ""
     } ,
   
     {
       "title"    : "Geometric reasoning",
+      "url"      : "/gcse_geometry/geometric_reasoning/",
       "content"  : "Under construction.",
       "tags"     : ""
     } ,
   
     {
       "title"    : "Trigonometry",
+      "url"      : "/gcse_geometry/trigonometry/",
       "content"  : "Under construction.",
       "tags"     : ""
     } 

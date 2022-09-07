@@ -5,6 +5,7 @@ layout: none
   {% for col in site.collections %}{% for page in site[col.label] %}
     {
       "title"    : "{{ page.title | escape}}",
+      "url"      : "{{ site.baseurl }}{{ page.url }}",
       "content"  : "{{ page.content | strip_html | strip_newlines | remove_chars | escape }}",
       "tags"     : "{{ page.tags | join: ', ' }}"
     } {% unless forloop.last %},{% endunless %}
