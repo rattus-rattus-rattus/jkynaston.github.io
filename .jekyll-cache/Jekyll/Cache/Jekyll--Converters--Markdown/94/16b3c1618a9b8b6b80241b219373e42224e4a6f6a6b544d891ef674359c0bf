@@ -1,0 +1,11 @@
+I"�<h1 id="about-the-orchard">About the Orchard</h1>
+
+<p>Our mission here at the Maths Orchard is simple - to provide high-quality maths resources for free.</p>
+
+<p>Whether you’re a teacher looking for resources to help you plan lessons or a maths student looking for revision material, we hope you can find something useful here. All of the resources produced by us are free for use under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC</a> license. We also provide some useful links to activities and material elsewhere on the internet. We’ve only just got started producing and uploading content here, so keep your eyes peeled over the coming months for more content.</p>
+
+<p>Thanks for visiting the maths orchard - we hope you enjoy your stay!</p>
+
+<h3 id="technical-information">Technical information</h3>
+<p>Many of our worksheets are provided in <code class="language-plaintext highlighter-rouge">.pdf</code> format and are compiled using <a href="https://www.latex-project.org/">LaTeX</a>. If you know how to use LaTeX and would like to modify any of these resources, we provide <code class="language-plaintext highlighter-rouge">.tex</code> files alongside all of our compiled <code class="language-plaintext highlighter-rouge">.pdf</code> documents. Please refer to the <a href="">LaTeX help page</a> for information on compiling these documents, as they have nonstandard dependencies not found on CTAN.</p>
+:ET

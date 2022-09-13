@@ -2,7 +2,8 @@ title: The Maths Orchard
 description: A website for KS4+ mathematics resources
 baseurl: ""
 
-theme: "just-the-docs"
+theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: orchard
 
 search_enabled: true
