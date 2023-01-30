@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addWatchTarget("./src/");
-  eleventyConfig.addPassthroughCopy("./src/assets");
+  eleventyConfig.addWatchTarget("./src/css/");
+  eleventyConfig.addPassthroughCopy("./src/assets/");
+  eleventyConfig.addPassthroughCopy("./src/css/")
   // eleventyConfig.addCollection("gcse", function(collectionApi) {
   //   return collectionApi.getFilteredByGlob("content/gcse/*.md");
   // });
