@@ -1,0 +1,61 @@
+// Functions first
+@import "../../node_modules/bootstrap/scss/functions";
+
+$min-contrast-ratio: 2.5;
+$black: #262622;
+$blue: #4991f6;
+$cyan: #49d6ec;
+$green: #52a477;
+$indigo: #8c4bee;
+$orange: #fd9d47;
+$pink: #e0659b;
+$purple: #9370c9;
+$red: #e5666c;
+$teal: #58d5a9;
+$white: #fefae0;
+$yellow: #ffcf3d;
+
+$body-bg: $white;
+$body-color: mix($black, $white, 80%);
+
+// Default variable overrides
+$danger: $red;
+$dark: #5c6a72;
+$gray: #829181;
+$info: $cyan;
+$light: $white;
+$primary: $blue;
+$secondary: $gray;
+$success: $green;
+$warning: $orange;
+
+// Font imports
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+#under-construction {
+  font-size: small;
+  font-weight: 100;
+}
+
+.dropdown-item:hover {
+  background-color: mix($light, $green, 75%) !important;
+}
+
+a {
+  color: #3a5a40 !important;
+}
+
+html body {
+  background-color: $body-bg;
+  color: $body-color;
+  font-family: "Roboto", sans-serif !important;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+nav {
+  font-weight: 400 !important;
+}
+
+// Import remainder of bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";

@@ -1,0 +1,62 @@
+<div class="container-fluid bg-success bg-opacity-25">
+  <div class="row">
+    <div class="col-lg-3 col-sm-0"></div>
+    <nav class="px-5 col-lg-6 col-sm-12 navbar navbar-expand-md" opacity="">
+      <a class="navbar-brand" href="{{ '/' | url }}">
+        <img src="{{ '/assets/favicon.svg' | url }}" style="vertical-align:top; height: 2rem; width: 2rem;">
+        The Maths Orchard
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mt-2 mt-lg-0 mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="{{ '/' | url }}">Home</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              GCSE
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="{{ '/content/gcse_maths' | url }}">GCSEs Home</a></li>
+              <li>
+                <hr class="dropdown-divider">
+              </li>
+              {%- for post in collections.gcse -%}
+              {%- if post.fileSlug != "gcse_maths" -%}
+              <li><a class="dropdown-item" href="{{ post.url }}">{{ post.data.title }}{{ post.fileSlug }}</a></li>
+              {%- endif -%}
+              {%- endfor -%}
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              A/AS Level
+            </a>
+            <ul class="dropdown-menu">
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Core Maths
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="{{ '/content/core_maths' | url }}">Core Maths Home</a></li>
+              <li>
+                <hr class="dropdown-divider">
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              Extras
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="col-lg-3"></div>
+  </div>
+</div>
